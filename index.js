@@ -1,9 +1,7 @@
-add()
-
-1 + 80// 81
-60 - 40// 20
-2 * 3.4//6.8
-5.0/2.5// 2
+add(1,80)
+substract(60,40)
+multiply(2,3.4)
+divide(5.0,2.5)
 
 var number=5
 number++
