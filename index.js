@@ -1,4 +1,4 @@
-function add(x+y) {
+function add() {
  var x = 1
  var y = 80
   return x+y;
