@@ -1,5 +1,6 @@
-function add(1,80) {
-  return
+function add() {
+ var x = 
+  return x+y
 }
 substract(60,40)
 multiply(2,3.4)
