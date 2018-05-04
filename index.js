@@ -1,6 +1,6 @@
-function add() {
- var x = 1
- var y = 80
+function add(a,b) {
+ var a = 1
+ var b = 80
   return 81;
 }
 
