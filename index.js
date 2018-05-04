@@ -1,6 +1,6 @@
-function add() {
- var x = 600
- var y = 94
+function add(x+y) {
+ var x = 1
+ var y = 80
   return x+y;
 }
 
