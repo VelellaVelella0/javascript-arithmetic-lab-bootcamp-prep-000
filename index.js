@@ -1,7 +1,7 @@
 function add(a,b) {
  var a = 1
  var b = 80
-  return 1+80
+  return 1+80;
 }
 
 substract(60,40)
